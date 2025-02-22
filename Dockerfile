@@ -37,7 +37,7 @@ RUN git clone https://github.com/stevenlovegrove/Pangolin.git -b v0.9 && \
 
 RUN mkdir -p catkin_ws/src && \
     cd catkin_ws/src && \
-    git clone https://github.com/thien94/orb_slam3_ros.git && \
+    git clone https://github.com/henrynoyes/orb_slam3_ros.git && \
     git clone https://github.com/ros-perception/vision_opencv.git -b noetic && \
     cd .. && \
     catkin config \
