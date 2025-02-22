@@ -24,6 +24,8 @@ Thirdparty/g2o/lib/
 Vocabulary/ORBvoc.txt
 build/
 
+data/
+
 lib/
 
 cmake_modules/
@@ -48,3 +50,5 @@ borrar/*
 */ExecMean.txt
 
 !Dockerfile
+
+data/
